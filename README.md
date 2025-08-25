@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aripnokihs
 - 👀 I’m interested in turning innovative ideas into projects/applications.
 - 🌱 I’m currently learning Computer Science
-- 📫 How to reach me: try dig into my repos and find some ideas?
+- 📫 How to reach me: Please don't.
 - 😄 Pronouns: Bocchi/Bocchi's
 - ⚡ Fun fact: Planes go whhooosssshhhhh!!!!!
 
